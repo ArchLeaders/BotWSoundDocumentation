@@ -1,5 +1,3 @@
-Recomended - Use Notepad++
- Notepad++ download https://notepad-plus-plus.org/downloads/
 -Pack
     -Bootup.pack 
       - Sound/Resource/M_StaticPrefetch.bars
