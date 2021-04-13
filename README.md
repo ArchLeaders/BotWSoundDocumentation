@@ -1,8 +1,6 @@
 # BotWSoundDocumentation
 Documenting every sound/voice audio in Breath of the Wild
 
-Completion 40%
+Completion 50%
 
-Use language YAML for best use
-
-Made by ArchLeaders 
+Made by ArchLeaders - Marcus. S
